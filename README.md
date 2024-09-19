@@ -4,4 +4,5 @@ draw in unexpected places. However, unless you are drawing tons of the same
 jack-o-lantern, it might be too specific as a function. It depends what you
 need in your program.
 
-Also, my stars aren't touching the stems? So I'm not sure how to fix it?
+Also, my stars aren't touching the stems? I put the star function first just
+in case but they didn't end up overlapping after all.
